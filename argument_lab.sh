@@ -4,7 +4,7 @@ echo "The arguements were: $*"
 
 echo "There were $# arguments"
 echo "The arguments were: $*"
-
+echo "Made this change"
 echo 'Last name, First name:'
 echo "The script is called $0"
 
